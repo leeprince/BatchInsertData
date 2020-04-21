@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.001" errors="0" skipped="0" tests="0" name="Test">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\bin"/>
+    <property name="java.vm.version" value="11.3-b02"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\phpstudy\PHPTutorial\WWW\class\java\javaUtil"/>
+    <property name="java.runtime.version" value="1.6.0_13-b03"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="D:\phpstudy\PHPTutorial\WWW\class\java\javaUtil"/>
+    <property name="java.endorsed.dirs" value="D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="D:\phpstudy\PHPTutorial\WWW\class\java\javaUtil\target\surefire\surefirebooter5410290253061515449.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows Vista"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\bin;.;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;D:\phpstudy\PHPTutorial\php\php-7.2.1-nts;D:\phpstudy\PHPTutorial\MySQL\bin;D:\app\redis;D:\app\nodeJs\;D:\app\Git\cmd;C:\ProgramData\ComposerSetup\bin;C:\Program Files\SourceGear\Common\DiffMerge\;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Roaming\Composer\vendor\bin;C:\Users\Administrator\AppData\Local\atom\bin;C:\Users\Administrator\AppData\Roaming\npm;D:\app\PhpStorm 2018.3.1\bin;"/>
+    <property name="surefire.test.class.path" value="D:\phpstudy\PHPTutorial\WWW\class\java\javaUtil\target\test-classes;D:\phpstudy\PHPTutorial\WWW\class\java\javaUtil\target\classes;C:\Users\Administrator\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\Administrator\.m2\repository\com\google\zxing\core\3.3.0\core-3.3.0.jar;C:\Users\Administrator\.m2\repository\com\google\zxing\javase\3.3.0\javase-3.3.0.jar;C:\Users\Administrator\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;C:\Users\Administrator\.m2\repository\com\github\jai-imageio\jai-imageio-core\1.3.1\jai-imageio-core-1.3.1.jar;C:\Users\Administrator\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\Administrator\.m2\repository\org\springframework\spring-core\4.3.9.RELEASE\spring-core-4.3.9.RELEASE.jar;C:\Users\Administrator\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Administrator\.m2\repository\org\jdom\jdom\1.1\jdom-1.1.jar;C:\Users\Administrator\.m2\repository\mysql\mysql-connector-java\5.1.38\mysql-connector-java-5.1.38.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler"/>
+    <property name="os.version" value="6.2"/>
+    <property name="user.home" value="C:\Users\Administrator"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="java.class.path" value="D:\phpstudy\PHPTutorial\WWW\class\java\javaUtil\target\test-classes;D:\phpstudy\PHPTutorial\WWW\class\java\javaUtil\target\classes;C:\Users\Administrator\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\Administrator\.m2\repository\com\google\zxing\core\3.3.0\core-3.3.0.jar;C:\Users\Administrator\.m2\repository\com\google\zxing\javase\3.3.0\javase-3.3.0.jar;C:\Users\Administrator\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;C:\Users\Administrator\.m2\repository\com\github\jai-imageio\jai-imageio-core\1.3.1\jai-imageio-core-1.3.1.jar;C:\Users\Administrator\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\Administrator\.m2\repository\org\springframework\spring-core\4.3.9.RELEASE\spring-core-4.3.9.RELEASE.jar;C:\Users\Administrator\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Administrator\.m2\repository\org\jdom\jdom\1.1\jdom-1.1.jar;C:\Users\Administrator\.m2\repository\mysql\mysql-connector-java\5.1.38\mysql-connector-java-5.1.38.jar;"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.6.0_13"/>
+    <property name="java.ext.dirs" value="D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\resources.jar;D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\rt.jar;D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\sunrsasign.jar;D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\jsse.jar;D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\jce.jar;D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\charsets.jar;D:\app\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="localRepository" value="C:\Users\Administrator\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+</testsuite>

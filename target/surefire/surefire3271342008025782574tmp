@@ -1,0 +1,37 @@
+#surefire
+#Thu Mar 21 20:32:35 CST 2019
+testClassesDirectory=D\:\\phpstudy\\PHPTutorial\\WWW\\class\\java\\javaUtil\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Administrator\\.m2\\repository\\com\\google\\zxing\\core\\3.3.0\\core-3.3.0.jar
+classPathUrl.3=C\:\\Users\\Administrator\\.m2\\repository\\org\\slf4j\\slf4j-api\\1.7.25\\slf4j-api-1.7.25.jar
+classPathUrl.2=C\:\\Users\\Administrator\\.m2\\repository\\org\\apache\\commons\\commons-lang3\\3.6\\commons-lang3-3.6.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\phpstudy\\PHPTutorial\\WWW\\class\\java\\javaUtil\\target\\classes
+reportsDirectory=D\:\\phpstudy\\PHPTutorial\\WWW\\class\\java\\javaUtil\\target\\surefire-reports
+classPathUrl.0=D\:\\phpstudy\\PHPTutorial\\WWW\\class\\java\\javaUtil\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\phpstudy\\PHPTutorial\\WWW\\class\\java\\javaUtil\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Administrator\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\Administrator\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=D\:\\phpstudy\\PHPTutorial\\WWW\\class\\java\\javaUtil\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+classPathUrl.12=C\:\\Users\\Administrator\\.m2\\repository\\mysql\\mysql-connector-java\\6.0.6\\mysql-connector-java-6.0.6.jar
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.11=C\:\\Users\\Administrator\\.m2\\repository\\org\\jdom\\jdom\\1.1\\jdom-1.1.jar
+classPathUrl.10=C\:\\Users\\Administrator\\.m2\\repository\\commons-logging\\commons-logging\\1.2\\commons-logging-1.2.jar
+classPathUrl.9=C\:\\Users\\Administrator\\.m2\\repository\\org\\springframework\\spring-core\\4.3.9.RELEASE\\spring-core-4.3.9.RELEASE.jar
+classPathUrl.8=C\:\\Users\\Administrator\\.m2\\repository\\javax\\servlet\\javax.servlet-api\\3.1.0\\javax.servlet-api-3.1.0.jar
+classPathUrl.7=C\:\\Users\\Administrator\\.m2\\repository\\com\\github\\jai-imageio\\jai-imageio-core\\1.3.1\\jai-imageio-core-1.3.1.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\Administrator\\.m2\\repository\\com\\beust\\jcommander\\1.48\\jcommander-1.48.jar
+classPathUrl.5=C\:\\Users\\Administrator\\.m2\\repository\\com\\google\\zxing\\javase\\3.3.0\\javase-3.3.0.jar
